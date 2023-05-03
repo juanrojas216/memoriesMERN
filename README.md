@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Storage of Memories with JWT Auth
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Objective
+
+Allow sharing and storaging memories, protected by login information. Each memory contains Name, tags and an attached image.
+
+## Technologies
+
+### Front-End: ReactJS, CSS, HTML, MaterialUI
+### Back-End: NodeJS, MongoDB, Postman
 
 ## Available Scripts
 
